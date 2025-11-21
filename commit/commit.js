@@ -1,3 +1,1 @@
-function thisiscommit (){
-    alert(' hello bro!');
-}
+//return and swit for castom
